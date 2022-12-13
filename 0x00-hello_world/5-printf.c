@@ -2,6 +2,7 @@
 /*
  * main - Outputs exact words using printf
  * Return: will retutn 0 uless there is an error
+ */
 int main(void)
 {
 
