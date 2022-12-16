@@ -1,8 +1,4 @@
-#include <stdio.h>
-
-/**
- * main - prints _putchar followed by a new line
- * R#include "main.h"
+#include "main.h"
 	/**
 	 * main - print _putchar
 	 * is written by mbah
@@ -23,12 +19,4 @@
 	_putchar('\n');
 	return (0);
 	}
-eturn: always 0
- */
 
-int  main(void)
-{
-	printf("_putchar\n");
-
-return (0);
-}
