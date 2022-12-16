@@ -1,9 +1,5 @@
-main.h CODE
-
-
-
 #ifndef main_h
-	#define main_h
+#define main_h
 
 
 	int _putchar(char);
@@ -21,5 +17,5 @@ main.h CODE
 	void print_times_table(int n);
 
 
-	#endif
+#endif
 
