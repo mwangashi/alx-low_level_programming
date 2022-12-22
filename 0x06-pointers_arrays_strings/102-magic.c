@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+*main - prints 98 when you add a new line of code
+*return: 0 always
+*/
+
 int main(void)
 {
 	int n;
